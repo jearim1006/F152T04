@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #578FCA;
+}
+
+h1 {
+  text-align: center;
+  color: #F0F4F8;
+}
+
+p {
+  border: 2px solid #555;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #fff;
+}
+.px {
+  width: 200px;
+  background-color: #00809D;
+}
+
+.cm {
+  width: 5cm;
+  background-color: #FF7601;
+}
+
+.mm {
+  width: 50mm;
+  background-color: #D5451B;
+}
+
+.in {
+  width: 2in;
+  background-color: #521C0D;
+}
+
+.pt {
+  font-size: 18pt;
+  background: #F2C078;
+}
+
+.pc {
+  font-size: 2pc;
+  background-color: #129990;
+}
+
+
+.em {
+  width: 20em;
+  background-color: #90D1CA;
+}
+
+.rem {
+  width: 20rem;
+  background-color: #F79B72;
+}
+
+.porcentaje {
+  width: 50%;
+  background-color: #F75A5A;
+}
+
+.vw {
+  width: 30vw;
+  background-color: #D4C9BE;
+}
+
+.vh {
+  height: 20vh;
+  background-color: #48A6A7;
+}

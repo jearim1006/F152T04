@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+}
+
+
+div {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+}
+
+
+.absolute-page {
+  background-color: red;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 250px;
+}
+
+
+.contenedor-relative {
+  position: relative;
+  background-color: #444;
+  height: 200px;
+  margin-top: 150px;
+  color: white;
+}
+
+
+.absolute-contenedor {
+  background-color: green;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  width: 250px;
+}

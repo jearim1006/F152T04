@@ -1,0 +1,20 @@
+body {
+  background-color: #FFF6BF;
+  font-family: sans-serif;
+  color: #333446;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  background-color: #A4CCD9;
+  border: 2px solid #333446;
+  padding: 15px;
+  text-align: center;
+}
+
+main {
+  border: 2px solid #C4E1E6;
+  padding: 15px;
+  margin-top: 20px;
+}
